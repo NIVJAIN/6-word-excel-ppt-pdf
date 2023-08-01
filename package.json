@@ -1,0 +1,21 @@
+{
+  "name": "6-word-excel-ppt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "easy-template-x": "^3.2.0",
+    "exceljs": "^4.3.0",
+    "node-sp-auth": "^3.0.7",
+    "nodejs-pptx": "^1.2.4",
+    "office-to-pdf": "^4.0.0",
+    "qrcode": "^1.5.3",
+    "sp-download": "^2.0.0"
+  }
+}
